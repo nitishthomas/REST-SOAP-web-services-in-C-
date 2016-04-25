@@ -1,0 +1,12 @@
+C:\Users\Manas\Documents\Visual Studio 2013\Projects\unni1\UniversalLocatorAppTryIt\bin\UniversalLocatorAppTryIt.dll.config
+C:\Users\Manas\Documents\Visual Studio 2013\Projects\unni1\UniversalLocatorAppTryIt\bin\UniversalLocatorAppTryIt.dll
+C:\Users\Manas\Documents\Visual Studio 2013\Projects\unni1\UniversalLocatorAppTryIt\bin\UniversalLocatorAppTryIt.pdb
+C:\Users\Manas\Documents\Visual Studio 2013\Projects\unni1\UniversalLocatorAppTryIt\obj\Debug\UniversalLocatorAppTryIt.csprojResolveAssemblyReference.cache
+C:\Users\Manas\Documents\Visual Studio 2013\Projects\unni1\UniversalLocatorAppTryIt\obj\Debug\UniversalLocatorAppTryIt.dll
+C:\Users\Manas\Documents\Visual Studio 2013\Projects\unni1\UniversalLocatorAppTryIt\obj\Debug\UniversalLocatorAppTryIt.pdb
+E:\dsod\Assignment 3 Part 3\Universalocator\UniversalLocatorAppTryIt\bin\UniversalLocatorAppTryIt.dll.config
+E:\dsod\Assignment 3 Part 3\Universalocator\UniversalLocatorAppTryIt\bin\UniversalLocatorAppTryIt.dll
+E:\dsod\Assignment 3 Part 3\Universalocator\UniversalLocatorAppTryIt\bin\UniversalLocatorAppTryIt.pdb
+E:\dsod\Assignment 3 Part 3\Universalocator\UniversalLocatorAppTryIt\obj\Debug\UniversalLocatorAppTryIt.csprojResolveAssemblyReference.cache
+E:\dsod\Assignment 3 Part 3\Universalocator\UniversalLocatorAppTryIt\obj\Debug\UniversalLocatorAppTryIt.dll
+E:\dsod\Assignment 3 Part 3\Universalocator\UniversalLocatorAppTryIt\obj\Debug\UniversalLocatorAppTryIt.pdb

@@ -1,0 +1,12 @@
+c:\users\manas\documents\visual studio 2013\Projects\JobFinder\WebApplication1\bin\WebApplication1.dll.config
+c:\users\manas\documents\visual studio 2013\Projects\JobFinder\WebApplication1\bin\WebApplication1.dll
+c:\users\manas\documents\visual studio 2013\Projects\JobFinder\WebApplication1\bin\WebApplication1.pdb
+c:\users\manas\documents\visual studio 2013\Projects\JobFinder\WebApplication1\obj\Debug\TryItPage.csprojResolveAssemblyReference.cache
+c:\users\manas\documents\visual studio 2013\Projects\JobFinder\WebApplication1\obj\Debug\WebApplication1.dll
+c:\users\manas\documents\visual studio 2013\Projects\JobFinder\WebApplication1\obj\Debug\WebApplication1.pdb
+E:\dsod\Assignment 3 Part 3\JobFinder\WebApplication1\bin\WebApplication1.dll.config
+E:\dsod\Assignment 3 Part 3\JobFinder\WebApplication1\bin\WebApplication1.dll
+E:\dsod\Assignment 3 Part 3\JobFinder\WebApplication1\bin\WebApplication1.pdb
+E:\dsod\Assignment 3 Part 3\JobFinder\WebApplication1\obj\Debug\TryItPage.csprojResolveAssemblyReference.cache
+E:\dsod\Assignment 3 Part 3\JobFinder\WebApplication1\obj\Debug\WebApplication1.dll
+E:\dsod\Assignment 3 Part 3\JobFinder\WebApplication1\obj\Debug\WebApplication1.pdb

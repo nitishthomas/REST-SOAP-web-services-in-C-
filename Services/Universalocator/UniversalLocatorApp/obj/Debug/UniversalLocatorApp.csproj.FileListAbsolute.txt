@@ -1,0 +1,12 @@
+c:\users\manas\documents\visual studio 2013\Projects\UniversalLocatorApp\UniversalLocatorApp\obj\Debug\UniversalLocatorApp.csprojResolveAssemblyReference.cache
+c:\users\manas\documents\visual studio 2013\Projects\UniversalLocatorApp\UniversalLocatorApp\bin\UniversalLocatorApp.dll.config
+c:\users\manas\documents\visual studio 2013\Projects\UniversalLocatorApp\UniversalLocatorApp\bin\UniversalLocatorApp.dll
+c:\users\manas\documents\visual studio 2013\Projects\UniversalLocatorApp\UniversalLocatorApp\bin\UniversalLocatorApp.pdb
+c:\users\manas\documents\visual studio 2013\Projects\UniversalLocatorApp\UniversalLocatorApp\obj\Debug\UniversalLocatorApp.dll
+c:\users\manas\documents\visual studio 2013\Projects\UniversalLocatorApp\UniversalLocatorApp\obj\Debug\UniversalLocatorApp.pdb
+C:\Users\Manas\Documents\Visual Studio 2013\Projects\unni1\UniversalLocatorApp\bin\UniversalLocatorApp.dll.config
+C:\Users\Manas\Documents\Visual Studio 2013\Projects\unni1\UniversalLocatorApp\bin\UniversalLocatorApp.dll
+C:\Users\Manas\Documents\Visual Studio 2013\Projects\unni1\UniversalLocatorApp\bin\UniversalLocatorApp.pdb
+C:\Users\Manas\Documents\Visual Studio 2013\Projects\unni1\UniversalLocatorApp\obj\Debug\UniversalLocatorApp.csprojResolveAssemblyReference.cache
+C:\Users\Manas\Documents\Visual Studio 2013\Projects\unni1\UniversalLocatorApp\obj\Debug\UniversalLocatorApp.dll
+C:\Users\Manas\Documents\Visual Studio 2013\Projects\unni1\UniversalLocatorApp\obj\Debug\UniversalLocatorApp.pdb

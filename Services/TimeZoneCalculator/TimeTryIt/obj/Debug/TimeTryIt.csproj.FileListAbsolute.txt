@@ -1,0 +1,6 @@
+c:\users\nitish\documents\visual studio 2013\Projects\TimeZoneCalculator\TimeTryIt\bin\TimeTryIt.dll.config
+c:\users\nitish\documents\visual studio 2013\Projects\TimeZoneCalculator\TimeTryIt\bin\TimeTryIt.dll
+c:\users\nitish\documents\visual studio 2013\Projects\TimeZoneCalculator\TimeTryIt\bin\TimeTryIt.pdb
+c:\users\nitish\documents\visual studio 2013\Projects\TimeZoneCalculator\TimeTryIt\obj\Debug\TimeTryIt.csprojResolveAssemblyReference.cache
+c:\users\nitish\documents\visual studio 2013\Projects\TimeZoneCalculator\TimeTryIt\obj\Debug\TimeTryIt.dll
+c:\users\nitish\documents\visual studio 2013\Projects\TimeZoneCalculator\TimeTryIt\obj\Debug\TimeTryIt.pdb

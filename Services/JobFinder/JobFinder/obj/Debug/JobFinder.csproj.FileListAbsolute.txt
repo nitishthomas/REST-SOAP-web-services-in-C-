@@ -1,0 +1,9 @@
+c:\users\manas\documents\visual studio 2013\Projects\JobFinder\JobFinder\obj\Debug\JobFinder.csprojResolveAssemblyReference.cache
+c:\users\manas\documents\visual studio 2013\Projects\JobFinder\JobFinder\bin\JobFinder.dll.config
+c:\users\manas\documents\visual studio 2013\Projects\JobFinder\JobFinder\bin\JobFinder.dll
+c:\users\manas\documents\visual studio 2013\Projects\JobFinder\JobFinder\bin\JobFinder.pdb
+c:\users\manas\documents\visual studio 2013\Projects\JobFinder\JobFinder\bin\HtmlAgilityPack.dll
+c:\users\manas\documents\visual studio 2013\Projects\JobFinder\JobFinder\bin\HtmlAgilityPack.pdb
+c:\users\manas\documents\visual studio 2013\Projects\JobFinder\JobFinder\bin\HtmlAgilityPack.xml
+c:\users\manas\documents\visual studio 2013\Projects\JobFinder\JobFinder\obj\Debug\JobFinder.dll
+c:\users\manas\documents\visual studio 2013\Projects\JobFinder\JobFinder\obj\Debug\JobFinder.pdb

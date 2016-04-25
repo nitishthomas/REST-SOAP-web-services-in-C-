@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApartmentFinder", "ApartmentFinder\ApartmentFinder.csproj", "{D1C57EA7-7321-4E2B-9FD7-F870D3686EA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AparmentTryIt", "WebApplication1\AparmentTryIt.csproj", "{A1E7C3DF-B7DF-4A6B-BCF0-9F72771BC9BC}"
+	ProjectSection(ProjectDependencies) = postProject
+		{D1C57EA7-7321-4E2B-9FD7-F870D3686EA9} = {D1C57EA7-7321-4E2B-9FD7-F870D3686EA9}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1C57EA7-7321-4E2B-9FD7-F870D3686EA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1C57EA7-7321-4E2B-9FD7-F870D3686EA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1C57EA7-7321-4E2B-9FD7-F870D3686EA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1C57EA7-7321-4E2B-9FD7-F870D3686EA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1E7C3DF-B7DF-4A6B-BCF0-9F72771BC9BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1E7C3DF-B7DF-4A6B-BCF0-9F72771BC9BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1E7C3DF-B7DF-4A6B-BCF0-9F72771BC9BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1E7C3DF-B7DF-4A6B-BCF0-9F72771BC9BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

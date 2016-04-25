@@ -1,0 +1,12 @@
+c:\users\manas\documents\visual studio 2013\Projects\EarthquakeProbability\EarthquakeProbability\bin\EarthquakeProbability.dll.config
+c:\users\manas\documents\visual studio 2013\Projects\EarthquakeProbability\EarthquakeProbability\bin\EarthquakeProbability.dll
+c:\users\manas\documents\visual studio 2013\Projects\EarthquakeProbability\EarthquakeProbability\bin\EarthquakeProbability.pdb
+c:\users\manas\documents\visual studio 2013\Projects\EarthquakeProbability\EarthquakeProbability\obj\Debug\EarthquakeProbability.csprojResolveAssemblyReference.cache
+c:\users\manas\documents\visual studio 2013\Projects\EarthquakeProbability\EarthquakeProbability\obj\Debug\EarthquakeProbability.dll
+c:\users\manas\documents\visual studio 2013\Projects\EarthquakeProbability\EarthquakeProbability\obj\Debug\EarthquakeProbability.pdb
+E:\dsod\Assignment 3 Part 3\EarthquakeProbability\EarthquakeProbability\bin\EarthquakeProbability.dll.config
+E:\dsod\Assignment 3 Part 3\EarthquakeProbability\EarthquakeProbability\bin\EarthquakeProbability.dll
+E:\dsod\Assignment 3 Part 3\EarthquakeProbability\EarthquakeProbability\bin\EarthquakeProbability.pdb
+E:\dsod\Assignment 3 Part 3\EarthquakeProbability\EarthquakeProbability\obj\Debug\EarthquakeProbability.csprojResolveAssemblyReference.cache
+E:\dsod\Assignment 3 Part 3\EarthquakeProbability\EarthquakeProbability\obj\Debug\EarthquakeProbability.dll
+E:\dsod\Assignment 3 Part 3\EarthquakeProbability\EarthquakeProbability\obj\Debug\EarthquakeProbability.pdb

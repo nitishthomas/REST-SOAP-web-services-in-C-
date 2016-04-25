@@ -1,0 +1,6 @@
+c:\users\nitish\documents\visual studio 2013\Projects\ElectricUtility\ElectricUtilityService\obj\Debug\ElectricUtilityService.csprojResolveAssemblyReference.cache
+c:\users\nitish\documents\visual studio 2013\Projects\ElectricUtility\ElectricUtilityService\bin\ElectricUtilityService.dll.config
+c:\users\nitish\documents\visual studio 2013\Projects\ElectricUtility\ElectricUtilityService\bin\ElectricUtilityService.dll
+c:\users\nitish\documents\visual studio 2013\Projects\ElectricUtility\ElectricUtilityService\bin\ElectricUtilityService.pdb
+c:\users\nitish\documents\visual studio 2013\Projects\ElectricUtility\ElectricUtilityService\obj\Debug\ElectricUtilityService.dll
+c:\users\nitish\documents\visual studio 2013\Projects\ElectricUtility\ElectricUtilityService\obj\Debug\ElectricUtilityService.pdb

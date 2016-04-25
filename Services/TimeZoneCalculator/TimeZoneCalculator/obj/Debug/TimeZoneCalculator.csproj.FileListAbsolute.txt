@@ -1,0 +1,9 @@
+c:\users\nitish\documents\visual studio 2013\Projects\TimeZoneCalculator\TimeZoneCalculator\bin\TimeZoneCalculator.dll.config
+c:\users\nitish\documents\visual studio 2013\Projects\TimeZoneCalculator\TimeZoneCalculator\bin\TimeZoneCalculator.dll
+c:\users\nitish\documents\visual studio 2013\Projects\TimeZoneCalculator\TimeZoneCalculator\bin\TimeZoneCalculator.pdb
+c:\users\nitish\documents\visual studio 2013\Projects\TimeZoneCalculator\TimeZoneCalculator\bin\HtmlAgilityPack.dll
+c:\users\nitish\documents\visual studio 2013\Projects\TimeZoneCalculator\TimeZoneCalculator\bin\HtmlAgilityPack.pdb
+c:\users\nitish\documents\visual studio 2013\Projects\TimeZoneCalculator\TimeZoneCalculator\bin\HtmlAgilityPack.xml
+c:\users\nitish\documents\visual studio 2013\Projects\TimeZoneCalculator\TimeZoneCalculator\obj\Debug\TimeZoneCalculator.csprojResolveAssemblyReference.cache
+c:\users\nitish\documents\visual studio 2013\Projects\TimeZoneCalculator\TimeZoneCalculator\obj\Debug\TimeZoneCalculator.dll
+c:\users\nitish\documents\visual studio 2013\Projects\TimeZoneCalculator\TimeZoneCalculator\obj\Debug\TimeZoneCalculator.pdb

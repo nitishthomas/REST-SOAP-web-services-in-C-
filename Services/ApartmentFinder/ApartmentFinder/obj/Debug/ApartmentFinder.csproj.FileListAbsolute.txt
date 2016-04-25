@@ -1,0 +1,9 @@
+c:\users\nitish\documents\visual studio 2013\Projects\ApartmentFinder\ApartmentFinder\bin\ApartmentFinder.dll.config
+c:\users\nitish\documents\visual studio 2013\Projects\ApartmentFinder\ApartmentFinder\bin\ApartmentFinder.dll
+c:\users\nitish\documents\visual studio 2013\Projects\ApartmentFinder\ApartmentFinder\bin\ApartmentFinder.pdb
+c:\users\nitish\documents\visual studio 2013\Projects\ApartmentFinder\ApartmentFinder\bin\HtmlAgilityPack.dll
+c:\users\nitish\documents\visual studio 2013\Projects\ApartmentFinder\ApartmentFinder\bin\HtmlAgilityPack.pdb
+c:\users\nitish\documents\visual studio 2013\Projects\ApartmentFinder\ApartmentFinder\bin\HtmlAgilityPack.xml
+c:\users\nitish\documents\visual studio 2013\Projects\ApartmentFinder\ApartmentFinder\obj\Debug\ApartmentFinder.csprojResolveAssemblyReference.cache
+c:\users\nitish\documents\visual studio 2013\Projects\ApartmentFinder\ApartmentFinder\obj\Debug\ApartmentFinder.dll
+c:\users\nitish\documents\visual studio 2013\Projects\ApartmentFinder\ApartmentFinder\obj\Debug\ApartmentFinder.pdb
